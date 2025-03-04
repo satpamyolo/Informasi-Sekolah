@@ -20,7 +20,7 @@
                 <a class="navbar-brand text-light" href="#"><img style="width: 80px; padding-right: 10px;" src="logo.png" alt=""> SMAN 8 KOTA TERNATE</a>
                 <ul class="nav justify-content-center">
                     <li class="nav-item">
-                        <a class="nav-link text-light" href="Dashboardd.php">Beranda</a>
+                        <a class="nav-link text-light" href="index.php">Beranda</a>
                     </li>
                     <li class="nav-item">
                         <div class="dropdown">
@@ -275,7 +275,7 @@
               <p class="my-4">
                 Apakah Anda memiliki pertanyaan? Harap jangan ragu untuk menghubungi kami secara langsung.
                  Admin kami akan kembali kepada Anda dalam hitungan jam untuk membantu Anda.</p>
-                 <a class="btn btn-primary" href="ContacyUs.php" role="button">Contact Us</a>
+                 <a class="btn btn-primary" href="ContactUs.php" role="button">Contact Us</a>
       </div>
   </section>
   <script>
